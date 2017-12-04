@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/white_round_stoke"
+    android:orientation="vertical">
+
+    <TextView
+        android:layout_marginLeft="5dp"
+        android:layout_marginRight="5dp"
+        android:layout_width="match_parent"
+        android:layout_height="40dp"
+        android:drawableRight="@drawable/x"
+        android:gravity="center"
+        android:text="保单信息"
+        android:id="@+id/tv_title" />
+
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="1dp" />
+
+    <TextView
+        android:layout_marginLeft="20dp"
+        android:gravity="center_vertical"
+        android:layout_width="match_parent"
+        android:layout_height="30dp"
+        android:text="商业险保单生效日期" />
+
+    <TextView
+        android:gravity="center"
+        android:id="@+id/tv_shangye_date"
+        android:layout_width="match_parent"
+        android:layout_height="40dp"
+        android:layout_margin="20dp"
+        android:background="@drawable/gary_round_stoke" />
+    <TextView
+        android:layout_marginLeft="20dp"
+        android:gravity="center_vertical"
+        android:layout_width="match_parent"
+        android:layout_height="30dp"
+        android:text="交强险保单生效日期" />
+    <TextView
+        android:gravity="center"
+        android:id="@+id/tv_jiaoqiang_date"
+        android:layout_width="match_parent"
+        android:layout_height="40dp"
+        android:layout_margin="20dp"
+        android:background="@drawable/gary_round_stoke" />
+
+
+    <Button
+        android:layout_margin="5dp"
+        android:background="@color/textSelected"
+        android:id="@+id/btn"
+        android:text="确认"
+        android:layout_width="match_parent"
+        android:layout_height="40dp" />
+</LinearLayout>

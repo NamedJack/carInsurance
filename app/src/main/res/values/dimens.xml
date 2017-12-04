@@ -1,0 +1,71 @@
+<resources>
+    <!-- Default screen margins, per the Android Design guidelines. -->
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    <dimen name="toolbar_title">20sp</dimen>
+    <dimen name="toolbar_title_textsize">20sp</dimen>
+
+
+    <!-- 字体大小 -->
+    <dimen name="txt_8">8sp</dimen>
+    <dimen name="txt_10">10sp</dimen>
+    <dimen name="txt_12">12sp</dimen>
+    <dimen name="txt_14">14sp</dimen>
+    <dimen name="txt_16">16sp</dimen>
+    <dimen name="txt_18">18sp</dimen>
+    <dimen name="txt_20">20sp</dimen>
+    <dimen name="txt_22">22sp</dimen>
+    <dimen name="txt_24">24sp</dimen>
+    <dimen name="txt_26">26sp</dimen>
+    <dimen name="txt_28">28sp</dimen>
+
+    <dimen name="font_larger">22sp</dimen>
+    <dimen name="font_large">18sp</dimen>
+    <dimen name="font_normal">15sp</dimen>
+    <dimen name="font_smaller">14sp</dimen>
+    <dimen name="font_small">12sp</dimen>
+
+
+    <integer name="anim_duration">200</integer>
+    <!--间距的大小-->
+    <dimen name="space_xs">4dip</dimen>
+    <dimen name="space_s">8dip</dimen>
+    <dimen name="space_m">16dip</dimen>
+    <dimen name="space_l">24dip</dimen>
+    <dimen name="space_xl">32dip</dimen>
+    <dimen name="space_xxl">48dip</dimen>
+    <dimen name="space_xxxl">72dip</dimen>
+
+    <!--字体的大小-->
+    <dimen name="txt_xs">8sp</dimen>
+    <dimen name="txt_s">12sp</dimen>
+    <dimen name="txt_m">16sp</dimen>
+    <dimen name="txt_l">24sp</dimen>
+    <dimen name="txt_xl">32sp</dimen>
+
+    <!--圆角控件的半径-->
+    <dimen name="corner_common">4dp</dimen>
+
+    <!-- 分割线的高度-->
+    <dimen name="heighr_divider">1px</dimen>
+
+    <!-- typical spacing between two views -->
+    <dimen name="spacing_huge">40dp</dimen>
+    <dimen name="spacing_larger">34dp</dimen>
+    <dimen name="spacing_large">24dp</dimen>
+    <dimen name="spacing_biger">20dp</dimen>
+    <dimen name="spacing_big">18dp</dimen>
+    <dimen name="spacing_normal">14dp</dimen>
+    <dimen name="spacing_small">12dp</dimen>
+    <dimen name="spacing_smaller">10dp</dimen>
+    <dimen name="spacing_smallest">8dp</dimen>
+    <dimen name="spacing_tiny">6dp</dimen>
+    <dimen name="spacing_tinyer">4dp</dimen>
+    <dimen name="spacing_tinyest">2dp</dimen>
+    <dimen name="txt_xm">19sp</dimen>
+
+
+    <dimen name="action_text_size">14sp</dimen>
+    <dimen name="cardview_margintop">1dp</dimen>
+    <dimen name="tv_date_padding_left">15dp</dimen>
+</resources>

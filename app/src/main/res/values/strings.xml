@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">诚惠车保</string>
+
+    <!-- Strings related to login -->
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">密码</string>
+    <string name="action_sign_in">登录</string>
+    <string name="action_sign_in_short">登录</string>
+    <string name="error_invalid_email">email格式不正确</string>
+    <string name="error_invalid_password">密码过短</string>
+    <string name="error_incorrect_password">密码格式不正确</string>
+    <string name="error_field_required">这是必填项</string>
+    <string name="permission_rationale">"需要提供读取联系人的权限去获取完整email"
+    </string>
+    <string name="noUserInput">用户名不能为空</string>
+    <string name="noPasswordInput">密码不能为空</string>
+    <string name="carInsuranceCalculate">车险算单</string>
+    <string name="orderManager">订单管理</string>
+    <string name="photoUpload">照片上传</string>
+    <string name="personal">个人</string>
+    <string name="page1_top_text">输入车牌信息，1分钟获取车险最低价</string>
+
+    <string name="setting">设置</string>
+    <string name="perm_tip">
+        当前应用缺少必要权限。\n请点击"设置"-"权限"-打开所需权限。\n最后点击两次后退按钮，即可返回。
+    </string>
+    <string name="ask_again">请给予应用必要权限，让程序可正常工作。</string>
+    <string name="cancel">取消</string>
+    <string name="state_empty">这里空空如也</string>
+</resources>
